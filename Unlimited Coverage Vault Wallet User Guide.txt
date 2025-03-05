@@ -1,0 +1,19 @@
+Unlimited Coverage Vault - Encrypted Cold Storage USB Wallet 
+
+If you run in to any issues or have any additional questions, please do not hesitate to reach out to us at unlimitedcoverage@proton.me . Thank you again for your purchase.
+
+Setup Instructions:
+
+1. Plug flash drive into computer 
+
+2. Enter passcode included on small slip of paper with USB drive, enter the passphrase just as it is on the paper, with dashes and upper/lower case DO NOT LOSE THIS. 
+
+NOTE: If your order or one of your USBs does not have a password label attached, it is because it is configured to be used with a Windows or Linux machine, and the encryption algorithms could not be set by us due to incompatibility. Currently, we only support USB encryption for MacOS Cold Storage Wallets, however as long as you set a secure password for your wallet, your assets cannot be reached and your wallet itself will still be encrypted. 
+
+3. Double click to open Coinomi wallet 
+
+4. Set up a new wallet, SAVE PASSPHRASE
+
+5. Select coins to add
+
+6. Finish set up and transfer funds
